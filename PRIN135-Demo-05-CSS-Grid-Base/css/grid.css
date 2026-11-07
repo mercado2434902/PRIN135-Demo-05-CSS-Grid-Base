@@ -1,0 +1,155 @@
+/* grid */
+.grid {
+}
+
+.inline-grid {
+}
+
+.grid-columns {
+}
+
+.grid-rows {
+}
+
+.grid-template {
+}
+
+.non-fraction {
+}
+
+.fraction {
+}
+
+.grid-template-repeat {
+}
+
+.grid-gap {
+}
+
+/* grid-template-area */
+#grid-template-area {
+
+    .item {
+    }
+
+    .header {
+    }
+
+    .sidebar {
+    }
+
+    .content {
+    }
+
+    .ads {
+    }
+
+    .footer {
+    }
+}
+
+/* Justify Items */
+.grid-ji {
+}
+
+.ji-start {
+}
+
+.ji-end {
+}
+
+.ji-center {
+}
+
+.ji-stretch {
+}
+
+/* Align Items */
+
+.ai-start {
+}
+
+.ai-end {
+}
+
+.ai-center {
+}
+
+.ai-stretch {
+}
+
+/* Justify Content */
+.grid-jc {
+}
+
+.jc-start {
+}
+
+.jc-end {
+}
+
+.jc-center {
+}
+
+.jc-space-around {
+}
+
+.jc-space-between {
+}
+
+.jc-space-evenly {
+}
+
+/* Align Content */
+.grid-ac {
+}
+
+.ac-start {
+}
+
+.ac-end {
+}
+
+.ac-center {
+}
+
+.ac-space-around {
+}
+
+.ac-space-between {
+}
+
+.ac-space-evenly {
+}
+
+/* Justify Self */
+#justify-self {
+
+    .js-stretch {
+    }
+
+    .js-center {
+    }
+
+    .js-start {
+    }
+
+    .js-end {
+    }
+}
+
+/* Align Self */
+#align-self {
+
+    .as-stretch {
+    }
+
+    .as-center {
+    }
+
+    .as-start {
+    }
+
+    .as-end {
+    }
+}
